@@ -50,4 +50,4 @@ I'm Danylo, a junior full-stack developer. Love creating applications with beaut
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/danylohatak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&color=black)](mailto:dhatak24@gmail.com)
-[![X](https://img.shields.io/badge/Social-%2300000.svg?style=for-the-badge&logo=X&logoColor=white&color=black)](https://twitter.com/dhatak24)
+[![X](https://img.shields.io/badge/(aka%20Twitter)-%2300000.svg?style=for-the-badge&logo=X&logoColor=white&color=black)](https://twitter.com/dhatak24)
