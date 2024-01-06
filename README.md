@@ -44,9 +44,7 @@ I'm Danylo, a junior full-stack developer. Love creating applications with beaut
 
 ## Stats:
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=neyrosick&show_icons=true&layout=compact&theme=gotham" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyrosick&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=neyrosick&show_icons=true&layout=compact&theme=gotham" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyrosick&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch ☕
 
